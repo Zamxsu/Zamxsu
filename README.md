@@ -39,10 +39,9 @@
 <br>
 
 <p><img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/
-    align=right ></p>
+      src="https://github-readme-stats.vercel.app/api?username=Zamxsu&show_icons=true&theme=graywhite"
+     align="right"
+    ></p>
     
  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
