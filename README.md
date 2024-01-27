@@ -13,6 +13,8 @@
        alt="snake" /></a>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zamxsu)](https://github.com/Zamxsu/github-readme-stats)
+
 
 
 
